@@ -1,0 +1,4 @@
+<pre name="code" class="html">//把文件添加到暂存区。
+$ git add text.txt 
+//提交文件 -m 后面引号里面为注释
+$ git commit -m "添加一个test文件"
